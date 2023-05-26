@@ -437,7 +437,10 @@ msgid "Metadata uploaded preserve"
 msgstr "Провайдер метаданных"
 
 msgid "Featured"
-msgstr ""
+msgstr "Избранное"
+
+msgid "Dashboards"
+msgstr "Дэшборды"
 
 msgid "Should this resource be advertised in home page?"
 msgstr "Может этот ресурс рекламироваться на домашней странице?"
@@ -1273,7 +1276,7 @@ msgid "Settings"
 msgstr "Оценки"
 
 msgid "Mandatory"
-msgstr ""
+msgstr "* Обязательно для заполнения"
 
 #, fuzzy
 #| msgid "Time Options"
@@ -2515,7 +2518,10 @@ msgid "Images"
 msgstr ""
 
 msgid "Data"
-msgstr ""
+msgstr "Данные"
+
+msgid "GeoStories"
+msgstr "Геоистории"
 
 #, fuzzy
 #| msgid "Unable to delete layer"
@@ -4793,7 +4799,7 @@ msgstr ""
 #, fuzzy
 #| msgid "dataset"
 msgid "Datasets"
-msgstr "набор данных"
+msgstr "Набор данных"
 
 msgid "People"
 msgstr "Люди"
@@ -4805,7 +4811,7 @@ msgid "Register"
 msgstr "Регистрация"
 
 msgid "Sign in"
-msgstr "Подписаться"
+msgstr "Авторизоваться"
 
 msgid "You are using an outdated browser that is not supported by GeoNode."
 msgstr ""
@@ -5310,7 +5316,7 @@ msgstr "Забыли свой пароль?"
 #, fuzzy
 #| msgid "Sign in"
 msgid "Sign In"
-msgstr "Подписаться"
+msgstr "Авторизоваться"
 
 msgid "Are you sure you want to log out?"
 msgstr "Вы уверены, что хотите выйти?"
@@ -5407,7 +5413,7 @@ msgid "Set password"
 msgstr "Сбросить мой пароль"
 
 msgid "Sign up"
-msgstr "Подписаться"
+msgstr "Зарегистрироваться"
 
 msgid ""
 "Sign up with one\n"
@@ -6752,7 +6758,7 @@ msgstr "Подписаться"
 #, fuzzy
 #| msgid "Sign up"
 msgid "Sign Up"
-msgstr "Подписаться"
+msgstr "Зарестрироваться"
 
 #, python-format
 msgid ""
@@ -7142,3 +7148,45 @@ msgstr "Доступ запрещен"
 #~| msgid "Thumbnail"
 #~ msgid "Thumbnail saved"
 #~ msgstr "Thumbnail"
+
+msgid "EDS Sign in"
+msgstr "Зарегистрироваться с помощью ЭЦП"
+
+msgid "Or"
+msgstr "или"
+
+msgid "Already registered?"
+msgstr "Уже зарегистрированны?"
+
+msgid "Authorization"
+msgstr "Авторизация"
+
+msgid "Not registered?"
+msgstr "Не зарегистрированы?"
+
+msgid "Created layers"
+msgstr "созданных слоев"
+
+msgid "Ready maps"
+msgstr "готовых карт"
+
+msgid "organizations"
+msgstr "организаций"
+
+msgid "users"
+msgstr "пользователей"
+
+msgid "Create your card"
+msgstr "Создать свою карту"
+
+msgid "Go to data"
+msgstr "Перейти в каталог данных"
+
+msgid "Top layers and maps"
+msgstr "Топ слоёв и карт"
+
+msgid "Latest"
+msgstr "Последние"
+
+msgid "Popular"
+msgstr "Популярные"
